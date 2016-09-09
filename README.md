@@ -2,6 +2,8 @@ iReserve
 =============
 
 - this repo is just for checking availability, don't expect it will automatically reserve for you
+- reset your targets at app.js (default are 5.5吋 亮黑色 256GB, 5.5吋 亮黑色 128GB)
+- didn't check yet because no devices is available so far
 - It worked in 2015, let see if it will also work in 2016
 
 ```

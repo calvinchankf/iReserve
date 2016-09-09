@@ -10,7 +10,7 @@ var stores = {
 }
 
 var targets = {
-  'MN4L2ZP/A': '4.7吋 亮黑色 128GB',
+  'MN4L2ZP/A': '5.5吋 亮黑色 256GB',
   'MN4D2ZP/A': '5.5吋 亮黑色 128GB'
 };
 
