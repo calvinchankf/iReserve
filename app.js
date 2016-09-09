@@ -5,18 +5,18 @@ var stores = {
   'R499': 'Canton Road',
   'R409': 'Causeway Bay',
   'R485': 'Festival Walk',
-  'R428': 'ifc mall'
+  'R428': 'ifc mall',
+  'R610': 'New Town Plaza'
 }
 
 var targets = {
-  // 'MKU82ZP/A': '6s+ gold 64',
-  'MKU92ZP/A': '6s+ pink 64',
-  // 'MKUF2ZP/A': '6s+ gold 128',
-  'MKUG2ZP/A': '6s+ pink 128'
+  'MN4L2ZP/A': '4.7吋 亮黑色 128GB',
+  'MN4D2ZP/A': '5.5吋 亮黑色 128GB'
 };
 
 function getAvailability(callback) {
-  request('https://reserve.cdn-apple.com/HK/zh_HK/reserve/iPhone/availability.json', function (error, response, body) {
+  // web https://reserve-hk.apple.com/HK/en_HK/reserve/iPhone/availability
+  request('https://reserve-hk.apple.com/HK/en_HK/reserve/iPhone/availability.json', function (error, response, body) {
     if (!error && response.statusCode == 200) {
       // console.log(body) // Show the HTML for the Google homepage.
       if (body) {

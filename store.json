@@ -1,31 +1,44 @@
 {
-  "updatedTime" : "上午 8:04",
+  "updatedTime" : "3:21 PM",
+  "supportedDomains" : {
+    "0" : "https://www.apple.com/hk/iphone-7/",
+    "1" : "http://www.apple.com/",
+    "2" : "http://storeint.apple.com/",
+    "3" : "http://epp.apple.com/",
+    "4" : "applestore://"
+  },
   "stores" : [ {
     "storeNumber" : "R499",
     "storeName" : "Canton Road",
     "storeEnabled" : true,
-    "sellEdition" : true,
-    "storeCity" : "香港"
+    "sellEdition" : false,
+    "storeCity" : "Hong Kong"
   }, {
     "storeNumber" : "R409",
     "storeName" : "Causeway Bay",
     "storeEnabled" : true,
     "sellEdition" : false,
-    "storeCity" : "香港"
+    "storeCity" : "Hong Kong"
   }, {
     "storeNumber" : "R485",
     "storeName" : "Festival Walk",
     "storeEnabled" : true,
     "sellEdition" : false,
-    "storeCity" : "香港"
+    "storeCity" : "Hong Kong"
   }, {
     "storeNumber" : "R428",
     "storeName" : "ifc mall",
     "storeEnabled" : true,
     "sellEdition" : true,
-    "storeCity" : "香港"
+    "storeCity" : "Hong Kong"
+  }, {
+    "storeNumber" : "R610",
+    "storeName" : "New Town Plaza",
+    "storeEnabled" : true,
+    "sellEdition" : false,
+    "storeCity" : "Hong Kong"
   } ],
-  "timezone" : "CST",
-  "updatedDate" : "10 月 18 日星期日",
-  "reservationURL" : "https://reserve-hk.apple.com/HK/zh_HK/reserve/iPhone"
+  "timezone" : "HKT",
+  "updatedDate" : "Friday, September 9",
+  "reservationURL" : "https://reserve-hk.apple.com/HK/en_HK/reserve/iPhone"
 }

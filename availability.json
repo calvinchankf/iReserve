@@ -1,0 +1,486 @@
+{/* 2016 */
+  "zh_HK" : {
+    "launchDate" : "9 月 16 日星期五"
+  },
+  "R499" : {
+    "MN8V2ZP/A" : "NONE", //4.7吋 玫瑰金色 256GB
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE", //4.7吋 黑色 32GB
+    "MN492ZP/A" : "NONE", //5.5吋 銀色 128GB
+    "MNQK2ZP/A" : "NONE", //5.5吋 金色 32GB
+    "MN8N2ZP/A" : "NONE", //4.7吋 金色 128GB
+    "MN8Q2ZP/A" : "NONE", //4.7吋 亮黑色 128GB
+    "MN4L2ZP/A" : "NONE", //5.5吋 亮黑色 256GB
+    "MN8K2ZP/A" : "NONE", //4.7吋 玫瑰金色 32GB
+    "MN4F2ZP/A" : "NONE", //5.5吋 銀色 256GB
+    "MN8U2ZP/A" : "NONE", //4.7吋 金色 256GB
+    "MN8R2ZP/A" : "NONE", //4.7吋 黑色 256GB
+    "MNQJ2ZP/A" : "NONE", //5.5吋 銀色 32GB
+    "MN8H2ZP/A" : "NONE", //4.7吋 銀色 32GB
+    "MN4C2ZP/A" : "NONE", //5.5吋 玫瑰金色 128GB
+    "MN4D2ZP/A" : "NONE", //5.5吋 亮黑色 128GB
+    "MN4J2ZP/A" : "NONE", //5.5吋 金色 256GB
+    "MN4A2ZP/A" : "NONE", //5.5吋 金色 128GB
+    "MN8L2ZP/A" : "NONE", //4.7吋 黑色 128GB
+    "MN8T2ZP/A" : "NONE", //4.7吋 銀色 256GB
+    "MNQH2ZP/A" : "NONE", //5.5吋 黑色 32GB
+    "MN8W2ZP/A" : "NONE", //4.7吋 亮黑色 256GB
+    "MN4E2ZP/A" : "NONE", //5.5吋 黑色 256GB
+    "MN8J2ZP/A" : "NONE", //4.7吋 金色 32GB
+    "MN8M2ZP/A" : "NONE", //4.7吋 銀色 128GB
+    "MN4K2ZP/A" : "NONE", //5.5吋 玫瑰金色 256GB
+    "MN482ZP/A" : "NONE", //5.5吋 黑色 128GB
+    "MNQL2ZP/A" : "NONE", //5.5吋 玫瑰金色 32GB
+    "MN8P2ZP/A" : "NONE", //4.7吋 玫瑰金色128GB
+  },
+  "R610" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  },
+  "isToday" : false,
+  "R485" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  },
+  "en_HK" : {
+    "launchDate" : "Friday, September 16"
+  },
+  "R409" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  },
+  "updated" : 1473411276651,
+  "R428" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  }
+}
+
+{
+  "zh_HK" : {
+    "launchDate" : "9 月 25 日星期五"
+  },
+  "R499" : { /* Canton Road */
+    "MKQL2ZP/A" : "ALL",
+    "MKQU2ZP/A" : "ALL",
+    "MKUE2ZP/A" : "NONE",
+    "MKQR2ZP/A" : "NONE",
+    "timeSlot" : {
+      "zh_HK" : {
+        "timeslotTime" : "上午 10:00",
+        "contractTimeslotTime" : "上午 10:00"
+      },
+      "en_HK" : {
+        "timeslotTime" : "10:00 AM",
+        "contractTimeslotTime" : "10:00 AM"
+      }
+    },
+    "MKU12ZP/A" : "ALL",
+    "MKU32ZP/A" : "ALL",
+    "MKQW2ZP/A" : "ALL",
+    "MKQT2ZP/A" : "NONE",
+    "MKQJ2ZP/A" : "ALL",
+    "MKU62ZP/A" : "NONE",
+    "MKQN2ZP/A" : "ALL",
+    "MKQQ2ZP/A" : "ALL",
+    "MKQM2ZP/A" : "ALL",
+    "MKU92ZP/A" : "NONE", // 6s+ pink 64
+    "MKUF2ZP/A" : "NONE", // 6s+ gold 128
+    "MKU82ZP/A" : "NONE", // 6s+ gold 64
+    "MKU22ZP/A" : "ALL",
+    "MKQV2ZP/A" : "ALL",
+    "MKU52ZP/A" : "NONE",
+    "MKQP2ZP/A" : "ALL",
+    "MKQK2ZP/A" : "ALL",
+    "MKUG2ZP/A" : "NONE", // 6s+ pink 128
+    "MKU72ZP/A" : "NONE",
+    "MKUD2ZP/A" : "NONE"
+  },
+  "isToday" : true,
+  "R485" : { // Festival Walk
+    "MKQL2ZP/A" : "ALL",
+    "MKQU2ZP/A" : "ALL",
+    "MKUE2ZP/A" : "NONE",
+    "MKQR2ZP/A" : "NONE",
+    "timeSlot" : {
+      "zh_HK" : {
+        "timeslotTime" : "下午 1:00",
+        "contractTimeslotTime" : "下午 1:00"
+      },
+      "en_HK" : {
+        "timeslotTime" : "1:00 PM",
+        "contractTimeslotTime" : "1:00 PM"
+      }
+    },
+    "MKU12ZP/A" : "ALL",
+    "MKU32ZP/A" : "ALL",
+    "MKQW2ZP/A" : "ALL",
+    "MKQT2ZP/A" : "NONE",
+    "MKQJ2ZP/A" : "ALL",
+    "MKU62ZP/A" : "NONE",
+    "MKQN2ZP/A" : "ALL",
+    "MKQQ2ZP/A" : "ALL",
+    "MKQM2ZP/A" : "ALL",
+    "MKU92ZP/A" : "NONE",
+    "MKUF2ZP/A" : "NONE",
+    "MKU82ZP/A" : "NONE",
+    "MKU22ZP/A" : "ALL",
+    "MKQV2ZP/A" : "ALL",
+    "MKU52ZP/A" : "NONE",
+    "MKQP2ZP/A" : "ALL",
+    "MKQK2ZP/A" : "ALL",
+    "MKUG2ZP/A" : "NONE",
+    "MKU72ZP/A" : "NONE",
+    "MKUD2ZP/A" : "NONE"
+  },
+  "en_HK" : {
+    "launchDate" : "Friday, September 25"
+  },
+  "R409" : { /* Causeway Bay */
+    "MKQL2ZP/A" : "ALL",
+    "MKQU2ZP/A" : "ALL",
+    "MKUE2ZP/A" : "NONE",
+    "MKQR2ZP/A" : "NONE",
+    "timeSlot" : {
+      "zh_HK" : {
+        "timeslotTime" : "上午 10:00",
+        "contractTimeslotTime" : "上午 10:00"
+      },
+      "en_HK" : {
+        "timeslotTime" : "10:00 AM",
+        "contractTimeslotTime" : "10:00 AM"
+      }
+    },
+    "MKU12ZP/A" : "ALL",
+    "MKU32ZP/A" : "ALL",
+    "MKQW2ZP/A" : "ALL",
+    "MKQT2ZP/A" : "NONE",
+    "MKQJ2ZP/A" : "ALL",
+    "MKU62ZP/A" : "NONE",
+    "MKQN2ZP/A" : "ALL",
+    "MKQQ2ZP/A" : "ALL",
+    "MKQM2ZP/A" : "ALL",
+    "MKU92ZP/A" : "NONE",
+    "MKUF2ZP/A" : "NONE",
+    "MKU82ZP/A" : "NONE",
+    "MKU22ZP/A" : "ALL",
+    "MKQV2ZP/A" : "ALL",
+    "MKU52ZP/A" : "NONE",
+    "MKQP2ZP/A" : "ALL",
+    "MKQK2ZP/A" : "ALL",
+    "MKUG2ZP/A" : "NONE",
+    "MKU72ZP/A" : "NONE",
+    "MKUD2ZP/A" : "NONE"
+  },
+  "updated" : 1445126735212,
+  "R428" : { /* ifc mall */
+    "MKQL2ZP/A" : "ALL",
+    "MKQU2ZP/A" : "ALL",
+    "MKUE2ZP/A" : "NONE",
+    "MKQR2ZP/A" : "ALL",
+    "timeSlot" : {
+      "zh_HK" : {
+        "timeslotTime" : "上午 10:00",
+        "contractTimeslotTime" : "上午 10:00"
+      },
+      "en_HK" : {
+        "timeslotTime" : "10:00 AM",
+        "contractTimeslotTime" : "10:00 AM"
+      }
+    },
+    "MKU12ZP/A" : "ALL",
+    "MKU32ZP/A" : "ALL",
+    "MKQW2ZP/A" : "ALL",
+    "MKQT2ZP/A" : "NONE",
+    "MKQJ2ZP/A" : "ALL",
+    "MKU62ZP/A" : "NONE",
+    "MKQN2ZP/A" : "ALL",
+    "MKQQ2ZP/A" : "ALL",
+    "MKQM2ZP/A" : "ALL",
+    "MKU92ZP/A" : "NONE",
+    "MKUF2ZP/A" : "NONE",
+    "MKU82ZP/A" : "NONE",
+    "MKU22ZP/A" : "ALL",
+    "MKQV2ZP/A" : "ALL",
+    "MKU52ZP/A" : "NONE",
+    "MKQP2ZP/A" : "ALL",
+    "MKQK2ZP/A" : "ALL",
+    "MKUG2ZP/A" : "NONE",
+    "MKU72ZP/A" : "NONE",
+    "MKUD2ZP/A" : "NONE"
+  }
+}
+
+{/* 2015 */
+  "zh_HK" : {
+    "launchDate" : "9 月 16 日星期五"
+  },
+  "R499" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  },
+  "R610" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  },
+  "isToday" : false,
+  "R485" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  },
+  "en_HK" : {
+    "launchDate" : "Friday, September 16"
+  },
+  "R409" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  },
+  "updated" : 1473411276651,
+  "R428" : {
+    "MN8V2ZP/A" : "NONE",
+    "timeSlot" : null,
+    "MN8G2ZP/A" : "NONE",
+    "MN492ZP/A" : "NONE",
+    "MNQK2ZP/A" : "NONE",
+    "MN8N2ZP/A" : "NONE",
+    "MN8Q2ZP/A" : "NONE",
+    "MN4L2ZP/A" : "NONE",
+    "MN8K2ZP/A" : "NONE",
+    "MN4F2ZP/A" : "NONE",
+    "MN8U2ZP/A" : "NONE",
+    "MN8R2ZP/A" : "NONE",
+    "MNQJ2ZP/A" : "NONE",
+    "MN8H2ZP/A" : "NONE",
+    "MN4C2ZP/A" : "NONE",
+    "MN4D2ZP/A" : "NONE",
+    "MN4J2ZP/A" : "NONE",
+    "MN4A2ZP/A" : "NONE",
+    "MN8L2ZP/A" : "NONE",
+    "MN8T2ZP/A" : "NONE",
+    "MNQH2ZP/A" : "NONE",
+    "MN8W2ZP/A" : "NONE",
+    "MN4E2ZP/A" : "NONE",
+    "MN8J2ZP/A" : "NONE",
+    "MN8M2ZP/A" : "NONE",
+    "MN4K2ZP/A" : "NONE",
+    "MN482ZP/A" : "NONE",
+    "MNQL2ZP/A" : "NONE",
+    "MN8P2ZP/A" : "NONE"
+  }
+}
