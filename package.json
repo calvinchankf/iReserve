@@ -1,0 +1,15 @@
+{
+  "name": "ireserve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "availability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^4.6.1",
+    "request": "^2.74.0"
+  }
+}

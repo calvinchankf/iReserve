@@ -1,0 +1,31 @@
+{
+  "updatedTime" : "上午 8:04",
+  "stores" : [ {
+    "storeNumber" : "R499",
+    "storeName" : "Canton Road",
+    "storeEnabled" : true,
+    "sellEdition" : true,
+    "storeCity" : "香港"
+  }, {
+    "storeNumber" : "R409",
+    "storeName" : "Causeway Bay",
+    "storeEnabled" : true,
+    "sellEdition" : false,
+    "storeCity" : "香港"
+  }, {
+    "storeNumber" : "R485",
+    "storeName" : "Festival Walk",
+    "storeEnabled" : true,
+    "sellEdition" : false,
+    "storeCity" : "香港"
+  }, {
+    "storeNumber" : "R428",
+    "storeName" : "ifc mall",
+    "storeEnabled" : true,
+    "sellEdition" : true,
+    "storeCity" : "香港"
+  } ],
+  "timezone" : "CST",
+  "updatedDate" : "10 月 18 日星期日",
+  "reservationURL" : "https://reserve-hk.apple.com/HK/zh_HK/reserve/iPhone"
+}
